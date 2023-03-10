@@ -13,5 +13,5 @@ for i in range(1,1000):
     if i % 3 == 0:
        ans = ans + i    
     elif i% 5 ==0:
-        ans = ans + 1
+        ans = ans + i
 print (ans)
